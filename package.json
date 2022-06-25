@@ -1,0 +1,15 @@
+{
+  "name": "nuu-102iea0016-exercise-u0924043-main",
+  "author": "Chen-HR",
+  "version": "1.0.0",
+  "description": "Chen-HR/NUU-102IEA0016-Exercise-U0924043-Main",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.5.0"
+  }
+}
